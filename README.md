@@ -1,0 +1,2 @@
+# sample_of_very_simple_game
+the_game_is_in_russian_language_find_a_number
